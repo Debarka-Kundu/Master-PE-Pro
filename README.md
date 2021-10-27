@@ -11,6 +11,7 @@ Current Beta Version is 0.1.2
 Current Windows Version in Beta 0.1.2:
 
 64 Bit: Windows 10 1803
+
 32 Bit: Windows 10 1903
 
 ---------- Change Log's ----------
@@ -20,22 +21,16 @@ Nothing
 
 ---------- Change Log's ----------
 
----------- Minimun Systen requirement's ----------
+---------- Minimum System requirements ----------
 
 Beta 0.1.2:
 
-64 Bit:
-Minimun Required Systen requirement's :
-2 GB RAM, 1 Core CPu
+64 Bit: Minimum Required System requirement's: 2 GB RAM, 1 Core CPU
 
-Recomended Systen requirement's :
-4 GB RAM, 2 Core CPu
+Recommended System requirement's: 4 GB RAM, 2 Core CPU
 
-32 Bit:
-Minimun Required Systen requirement's :
-1.9 GB RAM, 1 Core CPu
+32 Bit: Minimum Required System requirement's: 1.9 GB RAM, 1 Core CPU
 
-Recomended Systen requirement's :
-2 GB RAM, 2 Core CPu
+Recommended System requirement's: 2 GB RAM, 2 Core CPU
 
----------- Minimun Systen requirement's ----------
+---------- Minimum System requirements ----------
