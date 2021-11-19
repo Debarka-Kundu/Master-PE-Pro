@@ -4,7 +4,7 @@ Master PE Pro is the best Windows Recovery OS made by Debarka Kundu
 
 This Project is based on WIN10XPE
 
-This Link youn can find the open-Source files: https://drive.google.com/drive/folders/1j__jgMNq7kCqg4fwdnhqo6uE5_g4Kyam?usp=sharing
+You can find the open-source files in version post's
 
 NOTE: This Recovery OS is in beta and there are some bugs in this beta
 
