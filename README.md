@@ -1,6 +1,6 @@
 # Master-PE-Pro
 
-Master PE Pro is the best Windows Recovery OS made by Aslo Software (Debarka Kundu)
+Master PE Pro is the best Windows Recovery OS made by Aslo Software (Owner: Debarka Kundu)
 
 This Project is based on WIN10XPE
 
@@ -8,9 +8,9 @@ You can find the open-source files in version post's
 
 NOTE: This Recovery OS is in beta and there are some bugs in this beta
 
-Current Beta Version is 0.1.7
+Current Beta Version is 0.1.8
 
-Current Windows Version in Beta 0.1.7:
+Current Windows Version in Beta 0.1.8:
 
 64 Bit: Windows 10 1803
 
@@ -41,6 +41,18 @@ Nothing
 ---------- Change Log's ----------
 
 ---------- Minimum System requirements ----------
+
+Beta 0.1.8:
+
+it's same as the Beta 0.1.7....
+
+64 Bit: Minimum Required System requirement's: 1.9 GB (1920 MB) RAM, 1 Core CPU 17
+
+Recommended System requirement's: 4 GB RAM, 2 Core CPU
+
+32 Bit: Minimum Required System requirement's: 1.7 GB (1768 MB) RAM, 1 Core CPU
+
+Recommended System requirement's: 2 GB RAM, 2 Core CPU
 
 Beta 0.1.7:
 
