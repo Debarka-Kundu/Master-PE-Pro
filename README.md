@@ -18,6 +18,12 @@ Current Windows Version in Beta 0.1.8:
 
 ---------- Change Log's ----------
 
+Change Log in Beta v0.1.8:
+
+1. Removed 2 not required apps
+2. Fixed the Startup Sound Bug on some devices
+3. Added Mcafee Stinger
+
 Change Log in Beta 0.1.7:
 1. Bug Fixed: Fixed the Startup Sound Bug
 
