@@ -1,6 +1,6 @@
 # Master-PE-Pro
 
-Master PE Pro is the best Windows Recovery OS made by Debarka Kundu
+Master PE Pro is the best Windows Recovery OS made by Aslo Software (Debarka Kundu)
 
 This Project is based on WIN10XPE
 
